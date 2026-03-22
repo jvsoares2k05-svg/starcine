@@ -5,10 +5,10 @@ const SITE_DATA = {
         "ogImage": "/logo.png",
         "favicon": "/favicon.ico",
         "appleTouchIcon": "/apple-touch-icon.png",
-        "primaryColor": "#E30613",
-        "accentColor": "#FFD700",
+        "primaryColor": "#01b3ad",
+        "accentColor": "#01b3ad",
         "themeTokens": {
-            "primary": "#E30613",
+            "primary": "#01b3ad",
             "accent": "#FFD700",
             "success": "#25D366",
             "info": "#1e90ff",
@@ -19,10 +19,10 @@ const SITE_DATA = {
             "text": "#333333",
             "muted": "#666666",
             "title": "#000000",
-            "border": "#eeeeee",
+            "border": "#ededed",
             "subtle": "#e0e0e0",
-            "shadow": "rgba(0,0,0,0.08)",
-            "focus": "rgba(30,144,255,0.65)"
+            "shadow": "",
+            "focus": ""
         },
         "darkThemeTokens": {
             "background": "#121212",
